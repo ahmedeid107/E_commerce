@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Lafyuu</string>
+  <string name="facebook_app_id">1268961386988439</string>
+  <string name="fb_login_protocol_scheme">fbc5e23ebaa28d8f3118893673483171df</string>
+</resources>
